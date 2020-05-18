@@ -14,7 +14,7 @@
 #include "timer.h"
 #endif
 
-
+//Video: https://drive.google.com/open?id=1mdvKFb5sCMoXt4jHsmTzqiW2wscfGLL_
 
 
 enum BL_States {OFF, Start, ScaleUp, ScaleDown} state;
